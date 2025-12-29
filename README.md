@@ -1,7 +1,7 @@
 # Tarun Goswami
 
 > **AI Researcher • ML/DL Specialist • Generative AI Architect**  
-> 20+ years building production ML systems, advancing deep learning research, and shipping generative AI products.
+> Hands of experience, building production ML systems, advancing deep learning research, and shipping generative AI products.
 
 ---
 
